@@ -5,3 +5,4 @@
 1977:Plymouth:Roadrunner
 1988:Chevrolet:Challenger
 1948:Plymouth:Argile
+1968:Chevy:Cruise

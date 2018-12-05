@@ -20,7 +20,8 @@ do
 		echo "$y:$ma:$mo" >> my_old_cars.txt
 	elif [ $n -eq 2 ]
 	then
-		cat my_old_cars.txt
+		sort my_old_cars.txt
+
 	elif [ $n -eq 3 ]
 	then
 		echo "You have selected to exit"
